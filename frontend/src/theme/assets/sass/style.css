@@ -1,0 +1,16 @@
+/*
+# Theme style
+# */
+
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+#searchInput {
+  border: none !important;
+  width: 40rem !important;
+}
+
+.premium-alert {
+  font-size: 12px !important;
+}

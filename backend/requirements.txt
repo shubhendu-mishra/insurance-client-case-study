@@ -1,0 +1,5 @@
+fastapi
+uvicorn==0.11.8
+pydantic[email]
+sqlalchemy
+pymysql
